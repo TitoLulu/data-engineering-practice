@@ -18,5 +18,7 @@ Distributed Systems
 Data Pipelines
 ```
 #Text Book
-https://www.amazon.com/AWS-Data-Pipeline-Developer-Guide-ebook/dp/B07644C8TH/ref=sr_1_6?crid=2TJLFTBC1DQEY&dchild=1&keywords=data+engineering&qid=1592077019&sprefix=data+engin%2Caps%2C337&sr=8-6
+[Introduction to Algorithms](https://amzn.to/2CvJvpq)
+[AWS Data Pipeline Developer Guide](https://www.amazon.com/AWS-Data-Pipeline-Developer-Guide-ebook/dp/B07644C8TH/ref=sr_1_6?crid=2TJLFTBC1DQEY&dchild=1&keywords=data+engineering&qid=1592077019&sprefix=data+engin%2Caps%2C337&sr=8-6)
+
 
